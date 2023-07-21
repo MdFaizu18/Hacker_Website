@@ -45,6 +45,7 @@
     width: 300px;
      margin-left: 20%;
      outline: none;
+       background: black;
      border: 2px solid rgb(4, 195, 14);
      box-shadow: 0 0 10px rgb(4, 195, 14);
      padding: 0 20%;
